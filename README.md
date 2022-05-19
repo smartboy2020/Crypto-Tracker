@@ -14,8 +14,8 @@ It makes use of CoinGecko's API to fetch and display data.
 ______________________________________________________________________________________________________________________________
 ### How to Install in Chrome?
 
-#### 1. Visit chrome://extensions
-#### 2. Click on Load Unpacked
-#### 3. Locate the Project Folder and select it
-#### 4. Extension will be added to the list
+1. Visit chrome://extensions
+2. Click on Load Unpacked
+3. Locate the Project Folder and select it
+4. Extension will be added to the list
 
